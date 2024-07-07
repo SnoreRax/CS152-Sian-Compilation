@@ -7,4 +7,4 @@ Team SL, which consists of: Lagat, Reynette Micah and Sian, David Anthony.
 
 ## User Instructions
 
-For help with navigation of the prototype and deliverables, check out the [User Manual]().
+For help with navigation of the prototype and deliverables, check out the [User Manual](https://github.com/SnoreRax/CS152-Sian-Compilation/blob/b2a2fb10cdbb236182170d6b001f3a59534af171/USER_MANUAL.md).
