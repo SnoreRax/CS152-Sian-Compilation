@@ -4,3 +4,7 @@
 
 This GitHub repository contains all the requirements for the TriSakay app, a tricycle riding app. This was developed by
 Team SL, which consists of: Lagat, Reynette Micah and Sian, David Anthony.
+
+## User Instructions
+
+For help with navigation of the prototype and deliverables, check out the [User Manual]().
