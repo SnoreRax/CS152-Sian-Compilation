@@ -6,7 +6,7 @@ Trisakay is a tricycle riding app that allows both drivers and passengers to hav
 
 ## Prototype Navigation
 
-For instructions on how the prototype works, click [this link]() for the full documentation of the flow of the prototype, or click [this link]() to view a video flow of it instead.
+For instructions on how the prototype works, click [this link]() for the full documentation of the flow of the prototype, or click [this link](https://malayancollegesmindanaoo365-my.sharepoint.com/personal/rmlagat_mcm_edu_ph/_layouts/15/stream.aspx?id=%2Fpersonal%2Frmlagat%5Fmcm%5Fedu%5Fph%2FDocuments%2FTeamSL%5FTriSakay%2FTEAM%20SL%20%28Sian%5FLagat%29%20Part4%2FTriSakay%20Prototype%20Video%20Flow%2Emov&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E67c93c51%2Ddbab%2D4f74%2Daaff%2D263478304c15) to view a video flow of it instead.
 
 ## Additional Info
 
